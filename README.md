@@ -1,11 +1,15 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on full-stack development
+- 🌱 I’m currently learning Spring Security and ReactJS
+- 👯 I’m looking to collaborate on Spring Boot REST API applications or User Interface designs using ReactJS
+- 🤔 I’m looking for help with creating amazing full-stack web applications
+- 📫 How to reach me: gmail -> parth.mahale@gmail.com
 <!--
 **MagnumOpusSirius/MagnumOpusSirius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on full-stack development
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
