@@ -8,9 +8,9 @@ I have been coding for 6 years, I started off with Python and now have transitio
 
 * 🌍  I'm based in San Diego
 * ✉️  You can contact me at [parth.mahale@gmail.com](mailto:parth.mahale@gmail.com)
-* 🧠  I'm learning Spring Security, ReactJS and AWS
-* 🤝  I'm open to collaborating on Spring Boot REST API applications or User Interface designs using ReactJS
-* ⚡  I love to play chess in free time, watch cricket/soccer and love to play the piano.
+* 🧠  I'm learning Spring Boot, ReactJS and AWS, MLOps etc.
+* 🤝  I'm open to collaborating on Spring Boot REST API applications or User Interface designs using ReactJS or helping build modern day chatbot using LLM's integration
+* ⚡  I love to play chess, piano in free time and enjoy watching cricket/tennis
 
 <a href="https://www.github.com/MagnumOpusSirius" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MagnumOpusSirius?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a>
