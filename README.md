@@ -4,7 +4,7 @@ Hi 👋 My name is Parth Mahale
 Software Developer
 ------------------
 
-I have been coding for 6 years, I started off with Python and now have transitioned into Java/C++ for backend and ReactJS for frontend
+I have been coding for 6 years, I started off with Python building simple AI/ML based projects and also have experience with Java/C++ for backend and ReactJS for frontend
 
 * 🌍  I'm based in San Diego
 * ✉️  You can contact me at [parth.mahale@gmail.com](mailto:parth.mahale@gmail.com)
